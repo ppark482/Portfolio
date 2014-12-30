@@ -4,7 +4,7 @@ body,.fancy-header h1{
 h2,h3,h4,h5{
 	color: #ecf0f1;
 }
-#about,#work,#gallery,#team,#contact,#price,#services,#landing,
+#about,#work,#gallery,#team,#contact,#price,#landing,
 .progress,
 .counters li,
 .team > ul li,
@@ -14,6 +14,9 @@ h2,h3,h4,h5{
 .testi-client > ul li,
 .overlay-home {
 	background: #9f3444
+}
+#services {
+	background: #b0495a;
 }
 .title h1,
 .feat-icon,
