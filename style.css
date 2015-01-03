@@ -975,7 +975,7 @@ border-radius: 50%;
 	width: 100%;
 	height: 100%;
 }
-#services {
+#skillz {
 	background: #fff;
 	padding: 60px 0 0;
 	height: auto;
@@ -1199,7 +1199,8 @@ border-radius: 50%;
 #team{ 
 	background: #fff;
 	height: auto;
-	padding: 55px 0 0 0;
+	padding: 0;
+	margin-top: -70px;
 }
 .thumb li{
 	display: inline-block; 
@@ -1733,4 +1734,11 @@ opacity: 0;
 -webkit-animation: none;
 -moz-animation: none;
 animation: none;
+}
+
+.social-icons {
+	padding-top: 15px;
+}
+.social-icons > a > img {
+	width: 7rem;
 }

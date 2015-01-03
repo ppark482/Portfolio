@@ -15,7 +15,7 @@ h2,h3,h4,h5{
 .overlay-home {
 	background: #9f3444
 }
-#services {
+#skillz {
 	background: #b0495a;
 }
 .title h1,
@@ -57,7 +57,7 @@ textarea, input[type="text"], input[type="password"], input[type="datetime"], in
 }
 
 textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input,
-#services .title h1,
+#skillz .title h1,
 .skills .title h1,
 #team,
 .join-des span:hover,
