@@ -1506,7 +1506,7 @@ border-radius: 50%;
 }
 
 
-@media (max-width:979px) {
+@media (max-width:991px) {
 .navbar-fixed-top, .navbar-fixed-bottom {position:fixed;}
 .navbar-fixed-top .navbar-inner{padding:0}
 .serv-icon{display: none}
